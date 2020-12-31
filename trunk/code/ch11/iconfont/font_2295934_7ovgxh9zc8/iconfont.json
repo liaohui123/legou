@@ -1,0 +1,30 @@
+{
+  "id": "2295934",
+  "name": "svn",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15342948",
+      "name": "半星",
+      "font_class": "banxing",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "8289033",
+      "name": "星星",
+      "font_class": "xingxing",
+      "unicode": "e870",
+      "unicode_decimal": 59504
+    },
+    {
+      "icon_id": "18629765",
+      "name": "星星",
+      "font_class": "Star",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}
